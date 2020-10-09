@@ -26,7 +26,8 @@ in this case you should install any or all of the following package available in
 1. libespeak-dev -y
 2. espeak
 
-Here is the list of all supported languages in october 2020 
+Here is the list of all supported languages in october 2020
+
 afrikaans
 aragonese
 bulgarian
