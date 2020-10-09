@@ -23,7 +23,7 @@ import PyPDF2
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
 
-engine.setProperty('voice', 'english+f8') #Use f3 in place of f8 for female voice
+engine.setProperty('voice', 'english+f8') #Use f3 in place of f8 for female voice 
 ''' You can use 
 engine.setProperty('voice', voices[1].id)
 in place of 
